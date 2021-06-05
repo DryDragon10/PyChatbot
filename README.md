@@ -1,9 +1,8 @@
-
 # Installation 
 Watch this video to know how to install
 https://youtu.be/owgf1KmZaPI
 
-OR Follow this steps bellow
+OR Follow the steps bellow
 
 
 
