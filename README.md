@@ -1,4 +1,11 @@
-# Installation
+
+# Installation 
+Watch this video to know how to install
+https://youtu.be/owgf1KmZaPI
+
+OR Follow this steps bellow
+
+
 
 #clone the repo  
 $ git clone https://github.com/L-eviH-AckermanYT/Python-Chatbot
