@@ -1,6 +1,6 @@
 # Installation 
-Watch this video to know how to install
-https://youtu.be/owgf1KmZaPI
+[Video on how to set it up](https://youtu.be/owgf1KmZaPI)
+
 
 OR Follow the steps bellow
 
