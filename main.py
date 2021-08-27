@@ -3,12 +3,15 @@ import discord
 from discord.ext import commands
 from prsaw import RandomStuff
 
+
+api_key = str(input("Api key: "))
 #intro
 bot = commands.Bot(command_prefix="C")
-rs = RandomStuff(async_mode =True)
+rs = RandomStuff(async_mode =True, api_key=api_key)
 
 
 #inputs
+api_key = str(input("Api key: "))
 channel_id = int(input("ID of the channel u want the bot to talk:"))
 TOKEN = str(input("Bot TOKEN:"))
 
