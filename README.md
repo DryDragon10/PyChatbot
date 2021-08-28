@@ -9,7 +9,7 @@ OR Follow the steps bellow
 #### clone the repo  
 $ git clone https://github.com/L-eviH-AckermanYT/PyChatbot
 
-#### change the working directory to PyChatBot  
+#### change the working directory to PyChatbot  
 $ cd Python-Chatbot
 
 #### download the requirements  
