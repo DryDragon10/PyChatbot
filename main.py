@@ -11,7 +11,7 @@ rs = RandomStuff(async_mode =True, api_key=api_key)
 
 
 #inputs
-api_key = str(input("Api key: "))
+
 channel_id = int(input("ID of the channel u want the bot to talk:"))
 TOKEN = str(input("Bot TOKEN:"))
 
