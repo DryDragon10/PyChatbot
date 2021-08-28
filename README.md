@@ -1,5 +1,6 @@
 # Note
-the bot needs an api key to work now
+Now the bot needs an api key to work 
+
 get ur api key from [here](https://api-info.pgamerx.com/register)
 
 # Installation 
