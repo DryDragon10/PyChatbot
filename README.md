@@ -18,7 +18,7 @@ $ git clone https://github.com/L-eviH-AckermanYT/PyChatbot
 $ cd Python-Chatbot
 
 #### download the requirements  
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 
 #### run the program
 $ python3 main.py
